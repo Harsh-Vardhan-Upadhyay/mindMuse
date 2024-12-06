@@ -27,7 +27,7 @@
 
 ### Screenshots
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-![image](https://github.com/user-attachments/assets/446f4976-f02f-4f27-bebf-6360bf98a5ec)
-![image](https://github.com/user-attachments/assets/d5cbbe83-da93-4d88-a781-62dd2f5452b1)
-![image](https://github.com/user-attachments/assets/461295d3-97e2-4647-87ec-a220a3cc7c93)
+  <img src="https://github.com/user-attachments/assets/446f4976-f02f-4f27-bebf-6360bf98a5ec" alt="image1" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/d5cbbe83-da93-4d88-a781-62dd2f5452b1" alt="image2" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/461295d3-97e2-4647-87ec-a220a3cc7c93" alt="image3" style="max-width: 100%; height: auto;">
 </div>
