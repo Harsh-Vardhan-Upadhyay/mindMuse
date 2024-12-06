@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  **MindMuse** is a React Native application powered by Expo that helps users discover project ideas tailored to their interests, technology proficiency, and preferred tech stack. The app connects to a Django backend to fetch project recommendations from a curated database.
+  MindMuse is a React Native application powered by Expo that helps users discover project ideas tailored to their interests, technology proficiency, and preferred tech stack. The app connects to a Django backend to fetch project recommendations from a curated database.
 </p>
 
 ## Features
