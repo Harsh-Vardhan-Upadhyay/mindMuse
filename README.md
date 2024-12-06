@@ -1,4 +1,4 @@
-<h1align="center">
+<h1 align="center">
   <strong>MindMuse</strong>
 </h1>
 
